@@ -1,0 +1,1296 @@
+{
+  "generated_at": "2026-11-23T22:49:29.480830+08:00",
+  "window": "国际/商业/科技/体育 收录最近 24 小时 · AI 动态 最近 7 天 · 人物观点 最近 7 天",
+  "statuses": [
+    {
+      "name": "BBC",
+      "ok": true,
+      "count": 20,
+      "error": ""
+    },
+    {
+      "name": "CNN",
+      "ok": true,
+      "count": 5,
+      "error": ""
+    },
+    {
+      "name": "卫报",
+      "ok": true,
+      "count": 16,
+      "error": ""
+    },
+    {
+      "name": "半岛电视台",
+      "ok": true,
+      "count": 5,
+      "error": ""
+    },
+    {
+      "name": "NPR",
+      "ok": true,
+      "count": 6,
+      "error": ""
+    },
+    {
+      "name": "CNBC",
+      "ok": true,
+      "count": 13,
+      "error": ""
+    },
+    {
+      "name": "金融时报",
+      "ok": true,
+      "count": 8,
+      "error": ""
+    },
+    {
+      "name": "商业内幕",
+      "ok": true,
+      "count": 8,
+      "error": ""
+    },
+    {
+      "name": "TechCrunch",
+      "ok": true,
+      "count": 9,
+      "error": ""
+    },
+    {
+      "name": "The Verge",
+      "ok": true,
+      "count": 12,
+      "error": ""
+    },
+    {
+      "name": "Ars Technica",
+      "ok": true,
+      "count": 4,
+      "error": ""
+    },
+    {
+      "name": "MIT科技评论",
+      "ok": true,
+      "count": 2,
+      "error": ""
+    },
+    {
+      "name": "OpenAI",
+      "ok": true,
+      "count": 6,
+      "error": ""
+    },
+    {
+      "name": "Anthropic",
+      "ok": true,
+      "count": 2,
+      "error": ""
+    },
+    {
+      "name": "Google DeepMind",
+      "ok": true,
+      "count": 2,
+      "error": ""
+    },
+    {
+      "name": "Hugging Face",
+      "ok": true,
+      "count": 6,
+      "error": ""
+    },
+    {
+      "name": "Sam Altman",
+      "ok": true,
+      "count": 3,
+      "error": ""
+    },
+    {
+      "name": "Dario Amodei",
+      "ok": true,
+      "count": 3,
+      "error": ""
+    },
+    {
+      "name": "Elon Musk",
+      "ok": true,
+      "count": 3,
+      "error": ""
+    },
+    {
+      "name": "Ray Dalio",
+      "ok": true,
+      "count": 3,
+      "error": ""
+    },
+    {
+      "name": "Demis Hassabis",
+      "ok": true,
+      "count": 2,
+      "error": ""
+    },
+    {
+      "name": "黄仁勋",
+      "ok": true,
+      "count": 3,
+      "error": ""
+    },
+    {
+      "name": "Ilya Sutskever",
+      "ok": true,
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "李飞飞",
+      "ok": true,
+      "count": 2,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "published": "2026-11-23T22:47:45+08:00",
+      "source": "CNBC",
+      "category": "business"
+    },
+    {
+      "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
+      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+      "published": "2026-11-23T22:47:23+08:00",
+      "source": "CNBC",
+      "category": "tech"
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "published": "2026-11-23T22:43:03+08:00",
+      "source": "TechCrunch",
+      "category": "ai"
+    },
+    {
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
+      "published": "2026-11-23T22:40:11+08:00",
+      "source": "CNBC",
+      "category": "tech"
+    },
+    {
+      "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Sign up to the Breaking News US email Here’s Trump ’s full social media post, in which he also called…",
+      "published": "2026-11-23T22:38:52+08:00",
+      "source": "卫报",
+      "category": "world"
+    },
+    {
+      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+      "published": "2026-11-23T22:38:45+08:00",
+      "source": "CNBC",
+      "category": "business"
+    },
+    {
+      "title": "Hours before Nvidia board announced Huang’s return, President Donald Trump endorsed his reinstatement in a Truth Social post",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcjhCSGIwLV9SOTZId2gybUI2czl3TTViV1ppY2NxSHN6a1FoQmE3akZ2S19FNURVWXN0UWxqdzNLX0EzdUdlWmxPdE5XcXd4QkNpU3JkazJkcmZ5YzFGVlFlS2REdW4yWHoyWG9MblhVcmR1V2NwY3lYVzFpVFUxYmpfRndjSjl3N1plaWNUVmxlMG9ob3ZISVl6ZUhMN0RmRUVYNUlxcUZTWG5PRm83MmdvdnB4S25HdzUtdGozdy1RYV9zVXZUVzBkNG9wR0ZmeVVNeHBWX1FyXy15MFFmVUVMTXgwM3ZpQW1mUEpITGJucEtPQUNpN29PLU93WTFV?oc=5",
+      "summary": "",
+      "published": "2026-11-23T22:36:09+08:00",
+      "source": "CNN",
+      "category": "world"
+    },
+    {
+      "title": "JPMorgan's top books and experiences for the wealthy this holiday season",
+      "link": "https://www.cnbc.com/2026/11/23/jpmorgans-top-books-experiences-for-the-wealthy-this-holiday-season.html",
+      "summary": "The list includes a longevity clinic, books by David Booth and Jalen Brunson, and the Paddington Bear musical.",
+      "published": "2026-11-23T22:35:58+08:00",
+      "source": "CNBC",
+      "category": "business"
+    },
+    {
+      "title": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’ – Europe live",
+      "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+      "summary": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the Kremlin Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow…",
+      "published": "2026-11-23T22:35:49+08:00",
+      "source": "卫报",
+      "category": "world"
+    },
+    {
+      "title": "Nine people shot at central California concert with one in critical condition",
+      "link": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
+      "summary": "Authorities say they believe the Saturday night shooting at a concert in Strathmore ‘may be gang-related’ Nine people were shot at a concert in central California , leaving one person critically injured with a chest…",
+      "published": "2026-11-23T22:34:40+08:00",
+      "source": "卫报",
+      "category": "world"
+    },
+    {
+      "title": "Nvidia shares soar 30% after board reinstates Jensen Huang",
+      "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "summary": "Nasdaq gains 7% and S&P up 5% as AI trade reignites on Wall Street",
+      "published": "2026-11-23T22:33:17+08:00",
+      "source": "金融时报",
+      "category": "business"
+    },
+    {
+      "title": "Amtrak train derails after colliding with tractor-trailer in Louisiana",
+      "link": "https://www.theguardian.com/us-news/2026/nov/23/amtrak-derailment-louisiana",
+      "summary": "Five passengers were reported to have non-life-threatening injuries after crash at railroad crossing near Lafayette An Amtrak train collided with a tractor-trailer at a railroad crossing in south-central Louisiana…",
+      "published": "2026-11-23T22:32:40+08:00",
+      "source": "卫报",
+      "category": "world"
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as chief executive",
+      "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+      "summary": "Startling reversal of board’s position on disgraced co-founder sends AI giant’s share price soaring",
+      "published": "2026-11-23T22:32:05+08:00",
+      "source": "金融时报",
+      "category": "business"
+    },
+    {
+      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+      "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+      "published": "2026-11-23T22:26:33+08:00",
+      "source": "BBC",
+      "category": "world"
+    },
+    {
+      "title": "England's tearaway quick bowler reinvented as a top-order batter",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Katie George was once a tearaway fast bowler but, after years of injury pain, tells BBC Sport about reinventing herself as a top-order batter.",
+      "published": "2026-11-23T22:26:27+08:00",
+      "source": "BBC",
+      "category": "sport"
+    },
+    {
+      "title": "I Finally Interview Ray Dalio｜Sourcery",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zR1JVOWt3eE4ycWZHUUdDRGNRandWMFFTZG9Nd2tCR1BFSjhPSjd1SDU3ckx5OFM5RkJvMWxVaXAyVlFUV09TSGY2WXhUcTdlbXdkUDdxSlBCcm12a2pn?oc=5",
+      "summary": "",
+      "published": "2026-11-23T22:25:43+08:00",
+      "source": "Ray Dalio",
+      "category": "voices"
+    },
+    {
+      "title": "Nvidia board Reinstates Jensen Huang as CEO",
+      "link": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
+      "summary": "Jensen Huang’s swift return to Nvidia coincides with a sharp 31 percent premarket spike in the tech giant’s stock.",
+      "published": "2026-11-23T22:24:38+08:00",
+      "source": "半岛电视台",
+      "category": "world"
+    },
+    {
+      "title": "Nvidia stock surges after Jensen Huang rehired as CEO – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news, as Donald Trump welcomes shock reinstatement of Jensen Huang to run Nvidia Shares in UK housebuilder Crest Nicholson have slumped by a quarter, to a record…",
+      "published": "2026-11-23T22:23:58+08:00",
+      "source": "卫报",
+      "category": "business"
+    },
+    {
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "published": "2026-11-23T22:21:59+08:00",
+      "source": "TechCrunch",
+      "category": "ai"
+    },
+    {
+      "title": "Yann LeCun vs Dario Amodei: AI Godfather Slams Anthropic CEO",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qWWNULWszYzZEVUNtR2NkY3JMdktEWGl0VWd3UFJBSW9fX000Y1NnLXI3cExxR3M3TV9JWmV0N3pwMTMtNkZHLVlRRllPVVY0Z2dmYU1DY0t5SWtxSEZValJ4TmxXN3NZVTZwaFlSYVhCVkRjYkYw?oc=5",
+      "summary": "",
+      "published": "2026-11-23T22:21:59+08:00",
+      "source": "Dario Amodei",
+      "category": "voices"
+    },
+    {
+      "title": "Ian Huntley killed by inmate in ‘cold-blooded murder’ planned weeks in advance, court told",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial",
+      "summary": "Jurors hear Anthony Russell killed Soham murderer by hitting him repeatedly over head with metal bar A prisoner killed the Soham murderer Ian Huntley with a heavy metal bar in a “cold-blooded” attack that had been…",
+      "published": "2026-11-23T22:19:44+08:00",
+      "source": "卫报",
+      "category": "world"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "link": "https://www.cnbc.com/investingclub/2026/11/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "summary": "Nasdaq futures are ripping Monday morning after a brutal week for stocks.",
+      "published": "2026-11-23T22:17:05+08:00",
+      "source": "CNBC",
+      "category": "business"
+    },
+    {
+      "title": "Trump hosts crypto gala as his meme coin falls below $1",
+      "link": "https://www.cnbc.com/2026/11/23/trump-meme-coin-gala.html",
+      "summary": "Donald Trump hosted a dinner for top holders of his meme coin that has fallen to under $1. Bitcoin rebounded after falling to lowest level since September 2024.",
+      "published": "2026-11-23T22:15:42+08:00",
+      "source": "CNBC",
+      "category": "business"
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO",
+      "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+      "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates Nvidia has said it is reinstating Jensen Huang as chief executive…",
+      "published": "2026-11-23T22:15:27+08:00",
+      "source": "卫报",
+      "category": "tech"
+    },
+    {
+      "title": "Climate summit collapses over fossil fuels",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQnR6U3J2SjExdlUzcGx1YW9QdVRFWk91MUQyMENXUXFUYWZpSnBqMUhPSFBvMlJ3RE5RU09ESVFXTXA0UHZ6SDRaZmRSUExYWHhITUtlNWxnUDJPSkJIVHpiYk9waGNoSXkyUFB3OVk0SEtQcDNEVkJDR0xtVVVmUmphUzRaNXpUa2dWVHB0V0Vxb2FtSXowYkFVNzFZMXFCYkdoWDBR?oc=5",
+      "summary": "",
+      "published": "2026-11-23T22:15:00+08:00",
+      "source": "CNN",
+      "category": "world"
+    },
+    {
+      "title": "Wall Street's 'Fear Gauge' just flashed a buy sign",
+      "link": "https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html",
+      "summary": "Friday's huge VIX spike could be signaling a buying opportunity, if history is any indication",
+      "published": "2026-11-23T22:14:28+08:00",
+      "source": "CNBC",
+      "category": "business"
+    },
+    {
+      "title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
+      "link": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+      "summary": "Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system. The centerpiece is Reality View, a real-time generative display that swaps out old…",
+      "published": "2026-11-23T22:12:28+08:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "title": "Nvidia board reinstates Jensen Huang as CEO",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0dMMklraHlRTEN3OWZJNUxMeTVBdmtkTGEzXzFMWWE2U0d6bnUtcDBBRjR1Q0VwYWg2MlVhYjV2aXhqck9Wb1dUekN1LTVQN2JXajdVSnR5SHRWeHgzMGQ4NlRrVlkzQkYzak5OekVBVE8tMW5HaFdsM19Da1pvWWx5ZnVFZ1FLUEdN?oc=5",
+      "summary": "",
+      "published": "2026-11-23T22:11:10+08:00",
+      "source": "CNN",
+      "category": "world"
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "summary": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
+      "published": "2026-11-23T22:10:18+08:00",
+      "source": "Ars Technica",
+      "category": "tech"
+    },
+    {
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "published": "2026-11-23T22:08:50+08:00",
+      "source": "BBC",
+      "category": "tech"
+    },
+    {
+      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+      "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+      "published": "2026-11-23T22:07:16+08:00",
+      "source": "CNBC",
+      "category": "business"
+    },
+    {
+      "title": "Nvidia board reinstates disgraced Jensen Huang as CEO, president says",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWtCSVk3VGxlWEV4ZnZsbE83a3J6akRzbWJYanUyLUROWFgtbFdraU9IRjBlaGV6aldKSWl4Yl9QWmQtNjNYZ3N4SkNGeHhFVlZIemlqRXZnZzdxbFY1UGYwNjk0d1Y5MUZLeHFXV2RuVjR1N1lPN18wODJkS3Z0eG91dTlmRUc3QnhxNW5IbkRTNUtaZTVVTkp1MmxHWnJiNXdIS2F3R091UWs0eWNTbTg1TWI?oc=5",
+      "summary": "",
+      "published": "2026-11-23T22:06:17+08:00",
+      "source": "黄仁勋",
+      "category": "voices"
+    },
+    {
+      "title": "Jensen Huang is back as Nvidia’s CEO",
+      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which…",
+      "published": "2026-11-23T22:04:24+08:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO in a shocking reversal",
+      "link": "https://www.businessinsider.com/nvidia-reinstates-jensen-huang-ceo-president-board-2026-11",
+      "summary": "Nvidia said that it had voted \"unanimously\" to reinstate Jensen Huang as CEO and that it had received input from senior levels of the US government.",
+      "published": "2026-11-23T22:03:16+08:00",
+      "source": "商业内幕",
+      "category": "business"
+    },
+    {
+      "title": "Every American woman who has won Miss Universe in the pageant's 75-year history",
+      "link": "https://www.businessinsider.com/american-women-who-won-miss-universe-pageant-2026-11",
+      "summary": "Only nine American women have won the Miss Universe pageant in its 75-year history. R'Bonney Gabriel was the last Miss USA to take the crown.",
+      "published": "2026-11-23T22:03:02+08:00",
+      "source": "商业内幕",
+      "category": "business"
+    },
+    {
+      "title": "AI Godfather Yann LeCun Attacks Anthropic CEO Dario Amodei, Says He Wants To Control AI",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPV3RFM1pGZDZMb0hJWjlzU3FkWTljWWwydVNWamNXb0kzZkl5UzJsRTRLX0NlVlpyY3FzQXAzQkw4ZUZrdE9SbVBndmx6Q2JSa3lNbVNaTEdDUHNyeTVFdkNmVU9mdDkxc0R5ckZQdEt5Yi1JUFE3MnhjZlVoQTRGQ1A5TXNiWnp0VmVDLVAzUjlEdURlUlJ2X0p6bDFFUF9qU2ZLa3dyeWRad0cwd2VjckQweFRzVEVBdVBCNDlJSGV6bnYzallCb05JTkhsOW1iSjZmVkpNVjFXbWRkV2NUR0pTbGtxM0XSAewBQVVfeXFMTi1LNU9Wc0h6ZXRrSDJJak1PVnhDYnlFYjRWUzRWYmFkMEdTdm40aFpIaGZHSW8tZ0FDUW9QbnY3WTdFMmNiSV9RcFRNUERyYUR3d3h6VTRFTnUwYVpZTUV3S0tQV2k4ekRPVDZZbzRYMGpiMVFad2lCNG92aE1naVNvOXVHakFmZmx3TnZ1Q2ZGbXVrOG82VGREVnhidndUUEpGaHZHQVZrOFNQU0lXV3VPNDRrSUEzbkl0RHdER3BzdVFLT0Q3X1BLNm5jY0oxWWVhMmZ6V2VSZ2NRLUVjTm1rengwVDd2cXoyOXI?oc=5",
+      "summary": "",
+      "published": "2026-11-23T22:02:20+08:00",
+      "source": "Dario Amodei",
+      "category": "voices"
+    },
+    {
+      "title": "They left Goldman to found a VC firm — and just secured $320 million for their second fund",
+      "link": "https://www.businessinsider.com/goldman-sachs-executives-key1-founders-venture-capital-fund-2026-11",
+      "summary": "Sarel Eldor, Amit Pilowsky, and Danny Akerman left Goldman Sachs to found Key1 Capital. They drew on their banking years to raise their second fund.",
+      "published": "2026-11-23T22:00:01+08:00",
+      "source": "商业内幕",
+      "category": "business"
+    },
+    {
+      "title": "Uber now lets you book rides that record the drive by default",
+      "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+      "summary": "Uber is piloting a new feature in the U.S. that offers rides in which drivers have enabled the company’s recording feature, Record My Ride. The option, which uses the front camera of the Uber driver’s phone to record…",
+      "published": "2026-11-23T22:00:00+08:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "title": "Blade Runner 2099 is an inventive twist on a cyberpunk classic",
+      "link": "https://www.theverge.com/entertainment/1039095/blade-runner-2099-review",
+      "summary": "In an age of streaming shows designed to appeal to distracted viewers, Blade Runner 2099 can feel like a welcome anachronism. The Amazon series is slow and methodical, just like the movies it follows, as it delves deep…",
+      "published": "2026-11-23T22:00:00+08:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
+      "link": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
+      "summary": "Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’ Get our breaking news email , free app or daily news podcast The backlash to “pervert…",
+      "published": "2026-11-23T21:55:40+08:00",
+      "source": "卫报",
+      "category": "tech"
+    },
+    {
+      "title": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
+      "summary": "Israeli restrictions have left Gaza facing a severe shortage of hearing aid batteries.",
+      "published": "2026-11-23T21:54:48+08:00",
+      "source": "半岛电视台",
+      "category": "world"
+    },
+    {
+      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
+      "link": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
+      "summary": "There were 352 position changes, including 35 for the lead.",
+      "published": "2026-11-23T21:54:22+08:00",
+      "source": "Ars Technica",
+      "category": "tech"
+    },
+    {
+      "title": "The British Army brought in a battle-tested Ukrainian officer to prepare future officers for the brutal realities of modern war",
+      "link": "https://www.businessinsider.com/ukrainian-officer-training-british-army-future-military-leaders-2026-11",
+      "summary": "The training for future British Army officers at Sandhurst has changed in response to Ukraine's fight. A Ukrainian presence gives real-time advice.",
+      "published": "2026-11-23T21:53:33+08:00",
+      "source": "商业内幕",
+      "category": "business"
+    },
+    {
+      "title": "Welfare cuts: What's been happening with Pip and universal credit?",
+      "link": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
+      "published": "2026-11-23T21:52:40+08:00",
+      "source": "BBC",
+      "category": "business"
+    },
+    {
+      "title": "Anti-austerity strike spurs transport chaos across Belgium",
+      "link": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
+      "summary": "National strike against planned austerity causes widespread disruption, with government's fate hanging in the balance.",
+      "published": "2026-11-23T21:45:16+08:00",
+      "source": "半岛电视台",
+      "category": "world"
+    },
+    {
+      "title": "COP31 has failed. The climate system is working as designed",
+      "link": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss",
+      "summary": "The failure exposes a diplomacy that protects fossil-fuel power while leaving vulnerable countries to pay the price.",
+      "published": "2026-11-23T21:36:00+08:00",
+      "source": "半岛电视台",
+      "category": "world"
+    },
+    {
+      "title": "Flights and train services cancelled in Belgium due to strike",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "published": "2026-11-23T21:34:02+08:00",
+      "source": "BBC",
+      "category": "world"
+    },
+    {
+      "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+      "link": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
+      "summary": "The incident comes alongside a suspected Ukrainian drone strike on a Russian cargo ship in the Baltic Sea over the weekend.",
+      "published": "2026-11-23T21:28:15+08:00",
+      "source": "CNBC",
+      "category": "business"
+    },
+    {
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+      "published": "2026-11-23T21:26:36+08:00",
+      "source": "BBC",
+      "category": "world"
+    },
+    {
+      "title": "16 chains that are open on Thanksgiving — and 20 that are closed",
+      "link": "https://www.businessinsider.com/stores-open-closed-on-thanksgiving",
+      "summary": "Costco, Walmart, and Target will be closed on Thanksgiving this year. Here are the major stores that will be open.",
+      "published": "2026-11-23T21:23:02+08:00",
+      "source": "商业内幕",
+      "category": "business"
+    },
+    {
+      "title": "Macron proposes French budget ‘golden rule’",
+      "link": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1",
+      "summary": "President suggests constitutional reform to cap government spending and keep future deficits in check, echoing proposals by opponents",
+      "published": "2026-11-23T21:22:36+08:00",
+      "source": "金融时报",
+      "category": "business"
+    },
+    {
+      "title": "Ukraine war taking place on increasing number of fronts",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xOEVHaElZclJNQmNnbHpSd2VQWldKLUZVWV9aaDBUUVkxb1U1RjZTNE9mRkxFeUFBb3NuQ05WMlpnZTEwWHlZdFJlU0NFekdBNVFHUHkxU245OFVjUEllczJlUWRnQnNvSGg4LUZ6RUtzWTJiS1Zz?oc=5",
+      "summary": "",
+      "published": "2026-11-23T21:21:39+08:00",
+      "source": "CNN",
+      "category": "world"
+    },
+    {
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+      "published": "2026-11-23T21:20:32+08:00",
+      "source": "BBC",
+      "category": "business"
+    },
+    {
+      "title": "The most stunning lake in every state",
+      "link": "https://www.businessinsider.com/stunning-photos-of-beautiful-lakes-50-states-2020-6",
+      "summary": "Some lakes are ideal spots for fishing, bird-watching, and camping, while others across the US are just sheer marvels of nature.",
+      "published": "2026-11-23T21:17:01+08:00",
+      "source": "商业内幕",
+      "category": "business"
+    },
+    {
+      "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+      "link": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
+      "summary": "Governments and campaigners rejected the \"cover decision\" drafted at the U.N.'s climate summit, COP31, on Sunday.",
+      "published": "2026-11-23T21:16:38+08:00",
+      "source": "CNBC",
+      "category": "tech"
+    },
+    {
+      "title": "Dario Amodei Internal Memo: AGI Poses 20%-30% Risk of Human Extinction – Critical AI Safety Warning",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wczZCaDB3NXFZeW5hUkRRM3hxVlRNaWVjTlE2Z3pKNlR0RzAtbDN3LWxrX3JKOGpzcWVtSGZPX3JISkpKM3VVSWJVUXlrNHpDYXNr?oc=5",
+      "summary": "",
+      "published": "2026-11-23T21:12:45+08:00",
+      "source": "Dario Amodei",
+      "category": "voices"
+    },
+    {
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the…",
+      "published": "2026-11-23T21:10:00+08:00",
+      "source": "MIT科技评论",
+      "category": "tech"
+    },
+    {
+      "title": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
+      "link": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
+      "summary": "Motorola's unannounced Moto Tag 3 has been listed for sale online, just five months after the Moto Tag 2 went on sale in the US, and before any official announcement of a follow-up. The listing on Amazon UK was spotted…",
+      "published": "2026-11-23T21:09:32+08:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "title": "Falling markets: will I lose money, and is there anything I can do?",
+      "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+      "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too Business live – latest updates It has been a volatile time on global stock markets. There have been…",
+      "published": "2026-11-23T21:08:46+08:00",
+      "source": "卫报",
+      "category": "business"
+    },
+    {
+      "title": "'Right on time' - Kildunne on Quins exit stories",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4kq78yj93o?at_medium=RSS&at_campaign=rss",
+      "summary": "England and Bristol Bears full-back Ellie Kildunne makes a pointed reference to reports that poor time-keeping was behind her Harlequins exit.",
+      "published": "2026-11-23T21:07:54+08:00",
+      "source": "BBC",
+      "category": "sport"
+    },
+    {
+      "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
+      "published": "2026-11-23T21:07:12+08:00",
+      "source": "BBC",
+      "category": "sport"
+    },
+    {
+      "title": "Iran says it will use ‘all available means’ to counter US blockade",
+      "link": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+      "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+      "published": "2026-11-23T21:04:11+08:00",
+      "source": "半岛电视台",
+      "category": "world"
+    },
+    {
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "published": "2026-11-23T21:02:05+08:00",
+      "source": "BBC",
+      "category": "world"
+    },
+    {
+      "title": "Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99",
+      "link": "https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor",
+      "summary": "After being teased in December 2025 and getting an arguably unnecessary pre-release spec bump in August, the Samsung Odyssey G6 G60H rolls out next month for $899.99. The 27-inch gaming monitor will have an absurd…",
+      "published": "2026-11-23T21:00:00+08:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+      "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+      "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+      "published": "2026-11-23T20:42:03+08:00",
+      "source": "NPR",
+      "category": "world"
+    },
+    {
+      "title": "Lawyer of father and daughter detained by ICE speaks out",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeWZHUnp3cXF2OGliSkhGb3MxdU54YjdEeGNOWU9rZWhaSDVVNVk5dDFNTGZuVHhUQTM4emY4TW1XQkVhYVNBR0liWDdKRWpKb0JtcE5pQmZLMENKLTBlTWw2Z05FYXl1SXFsNGtFTDNDZm5KRDdYdE1yS2hrQ0sxQmFMR25Mc1JtakFzN1hURnV3NU5XNzgtZVgtZWZnZEx5Tm13?oc=5",
+      "summary": "",
+      "published": "2026-11-23T20:41:00+08:00",
+      "source": "CNN",
+      "category": "world"
+    },
+    {
+      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+      "published": "2026-11-23T20:40:37+08:00",
+      "source": "CNBC",
+      "category": "tech"
+    },
+    {
+      "title": "Watford set to appoint former Romania boss Iordanescu",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.",
+      "published": "2026-11-23T20:36:46+08:00",
+      "source": "BBC",
+      "category": "sport"
+    },
+    {
+      "title": "Next data accessed in cyber breach",
+      "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+      "published": "2026-11-23T20:34:07+08:00",
+      "source": "BBC",
+      "category": "business"
+    },
+    {
+      "title": "Why these 6 stocks are winning from the AI rout",
+      "link": "https://www.businessinsider.com/ai-tech-stocks-rout-walmart-berkshire-buffett-defensive-investing-consumer-2026-11",
+      "summary": "Walmart, Berkshire Hathaway, and Clorox shares have rallied strongly as investors switch out high-flying AI stocks like Nvidia for defensive picks.",
+      "published": "2026-11-23T20:32:34+08:00",
+      "source": "商业内幕",
+      "category": "business"
+    },
+    {
+      "title": "The trouble with the middle powers project",
+      "link": "https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1",
+      "summary": "Smaller nations are already dangerously dependent — and US and Chinese dominance of AI will only compound their problems",
+      "published": "2026-11-23T20:25:47+08:00",
+      "source": "金融时报",
+      "category": "business"
+    },
+    {
+      "title": "Bellamy an influence as Williams leads Swansea",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6rmgkvpex0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ashley Williams says he has been in regular contact with Wales boss Craig Bellamy since taking temporary charge of Swansea City.",
+      "published": "2026-11-23T20:21:28+08:00",
+      "source": "BBC",
+      "category": "sport"
+    },
+    {
+      "title": "'Ridiculous stuff!' - Incredible touchdown throw in NFL best plays",
+      "link": "https://www.bbc.co.uk/sport/american-football/videos/cq07411l0xygo?at_medium=RSS&at_campaign=rss",
+      "summary": "A \"ridiculous\" touchdown throw by Tennessee Titans quarterback Cam Ward features in the best plays week 11 of the NFL regular season.",
+      "published": "2026-11-23T20:19:19+08:00",
+      "source": "BBC",
+      "category": "sport"
+    },
+    {
+      "title": "Tri-screen portable monitors aren’t for the faint of heart",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+      "summary": "Three extra screens boost multitasking but can distract and overwhelm.",
+      "published": "2026-11-23T20:15:16+08:00",
+      "source": "Ars Technica",
+      "category": "tech"
+    },
+    {
+      "title": "Elon Musk Interview At The DealBook Summit: Starlink Is Revolutionary And Saves Lives",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWx2RFE1VkJVRVd0NVVfbDk2MlNHZDlDdWFuOUpkaVBPTjV0SEpILTFYSWR0T3Fka05JZ0ZydUUtclQzQVpHaU00QlU2VlE5MVRRSmhiczk0SWQ5d2hjREJXalRVMEQ1bFgxMjF0N211NndDcmlKRjRkWHJtYnlPandHUDhzTXhCV2s3Zkd5UzQ0Z1c2RVozOHdVdEMxcFZGZm9JZEdwZGowMC02S1BQOTQ1VzQwZ3FQOHdnX3psdw?oc=5",
+      "summary": "",
+      "published": "2026-11-23T20:08:14+08:00",
+      "source": "Elon Musk",
+      "category": "voices"
+    },
+    {
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "published": "2026-11-23T20:00:00+08:00",
+      "source": "Ars Technica",
+      "category": "tech"
+    },
+    {
+      "title": "'Where Will That Come From?': Elon Musk Warns AI Firms Need Hundreds of Billions in Working Capital as Or",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU3FNWWxfbnkxMGlNOERLT3BZWnNBOFhHUTdPR1NtbEo2NHJtalVEM09nZHNrWERaaXRmTEZxYVhqVTF4ZFBDSC1GNDVRR3NGWkdrNWNXdnRzV3VxLXdhdFRHb0JxQUNVV3FITFNsN3BXOS1EX0Y3QVNNZ29fTm5nNWxENWdNaEhuWjdDaHdkSmYwRi05XzVkaTFlSVdFRW5iSXZ0U1RRNE1XRVl0MWtva3NSOG9iQjlMbDZqSExwT2NMaUhiWmFkZ19NTlc5UDFzNHloRGY1ZTIzM0FzdTUwQ2RSeFRiOE5RTTg5X1hrMUVrSUlYY2FLOFlMLWFTX3hMNElkQlpBNVNqY2s?oc=5",
+      "summary": "",
+      "published": "2026-11-23T19:58:37+08:00",
+      "source": "Elon Musk",
+      "category": "voices"
+    },
+    {
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "published": "2026-11-23T19:57:33+08:00",
+      "source": "BBC",
+      "category": "world"
+    },
+    {
+      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+      "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+      "published": "2026-11-23T19:24:37+08:00",
+      "source": "BBC",
+      "category": "business"
+    },
+    {
+      "title": "Futures rally after Wall Street's nightmare week",
+      "link": "https://www.cnbc.com/2026/11/23/futures-rally-after-wall-streets-nightmare-week-.html",
+      "summary": "Investors look to buy the dip as technology stocks lead early gains for the Nasdaq",
+      "published": "2026-11-23T19:10:34+08:00",
+      "source": "CNBC",
+      "category": "tech"
+    },
+    {
+      "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount",
+      "link": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
+      "summary": "All-stock acquisition comes as businesses and governments across the world grapple with wave of tech outages",
+      "published": "2026-11-23T19:02:10+08:00",
+      "source": "金融时报",
+      "category": "business"
+    },
+    {
+      "title": "Carry cash and know your rights: how to fly in the US this Thanksgiving holiday",
+      "link": "https://www.theguardian.com/global/2026/nov/23/thanksgiving-air-travel-us-explainer",
+      "summary": "Amid air chaos, travelers will have to navigate an outdated system (and complex company policies if it all goes wrong) Millions of people are planning to fly in the US over the Thanksgiving holiday, just two weeks after…",
+      "published": "2026-11-23T19:00:56+08:00",
+      "source": "卫报",
+      "category": "business"
+    },
+    {
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of…",
+      "published": "2026-11-23T19:00:00+08:00",
+      "source": "The Verge",
+      "category": "ai"
+    },
+    {
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials…",
+      "published": "2026-11-23T19:00:00+08:00",
+      "source": "MIT科技评论",
+      "category": "tech"
+    },
+    {
+      "title": "Apollo's co-president said these 2 traits differentiate leaders",
+      "link": "https://www.businessinsider.com/apollo-exec-partner-traits-career-success-2026-11",
+      "summary": "Scott Kleinman, co-president of Apollo Asset Management, said workers with partner potential have a \"willingness to just grind.\"",
+      "published": "2026-11-23T18:50:01+08:00",
+      "source": "商业内幕",
+      "category": "business"
+    },
+    {
+      "title": "South East Water reports loss after supply issues",
+      "link": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
+      "summary": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
+      "published": "2026-11-23T18:19:46+08:00",
+      "source": "BBC",
+      "category": "business"
+    },
+    {
+      "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+      "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+      "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+      "published": "2026-11-23T18:16:33+08:00",
+      "source": "NPR",
+      "category": "world"
+    },
+    {
+      "title": "Elon Musk Predicts Massive Leap in AI Capabilities That Will Make Today’s Tech Look Like ‘Caveman Playing",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQLWs1d1V0OHA2SXFkUHBDLWFnNG1jMDhnSzNXREFSQzJDMTNkYUZxNXZYR1pSRmQzZGtmWnRiRWNweHRzU3J6UEFCVXllZjVQbEhxU3dSOTFVd2pHNkloTTB5QWtrSTFDa1lpTGJDRzhyRTBrZVZzVW5DdVBlOVRfbWFaVkJ5S1poLUdnczVPdUtGVndNTXFiYzB2RUVDbi03dmpuazNnR29wZkJRdVQ2NzlUZVotQmIwZkJVR0p2dkhOV2tzeDdISUdHMlhZRnZlUFA4WHljUU9mQUg1TWlhTF9wNXQwdDlWbDZNVkxNZDVfazk2Rno2MkhIZVRnNEUzRHZka0kwWDNBWnhjeXBocjVpTU1uTS1UQ21VbDllUFRhaTFIZDctWVhGbmRyVzJQNTQ5cw?oc=5",
+      "summary": "",
+      "published": "2026-11-23T18:16:12+08:00",
+      "source": "Elon Musk",
+      "category": "voices"
+    },
+    {
+      "title": "Poundland is facing collapse - what's gone wrong?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "published": "2026-11-23T18:09:25+08:00",
+      "source": "BBC",
+      "category": "business"
+    },
+    {
+      "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
+      "summary": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
+      "published": "2026-11-23T18:00:00+08:00",
+      "source": "NPR",
+      "category": "business"
+    },
+    {
+      "title": "Catering giant to switch main share listing to US in further blow to UK",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+      "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+      "published": "2026-11-23T17:54:04+08:00",
+      "source": "BBC",
+      "category": "business"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman has explained why developing economies tend to be more welcoming of AI than developed economies, noting that “there’s just huge undersupply.” “So I’m sure that’s part of it,” Altman added. Speaking with entrepreneur and podcast",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uUEtvNTdWSFl5TE1zOFlGRkxhcFBPY2NSSElvdVdZZmJRMzRGSk9sUGtPNjZFZlJlM0xTaFlyaDkxWUhWeFh1OXZiYlZPYzBoaWtPNlNn?oc=5",
+      "summary": "OpenAI CEO Sam Altman has explained why developing economies tend to be more welcoming of AI than developed economies, noting that “there’s just huge undersupply.” “So I’m sure that’s part of it,” Altman added. Speaking…",
+      "published": "2026-11-23T17:33:35+08:00",
+      "source": "Sam Altman",
+      "category": "voices"
+    },
+    {
+      "title": "Ukraine blows up Russian warship in Libya’s Benghazi naval base",
+      "link": "https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1",
+      "summary": "Volodymyr Zelenskyy describes attack as an ‘exemplary’ sea drone operation",
+      "published": "2026-11-23T17:30:44+08:00",
+      "source": "金融时报",
+      "category": "business"
+    },
+    {
+      "title": "Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade",
+      "link": "https://www.theguardian.com/technology/2026/nov/23/apple-iphone-duo-review-most-novel-interesting-iphone-in-almost-a-decade",
+      "summary": "The folding iPhone is early-adopter gold, changing the way iOS works and successfully condensing a tablet into your pocket, but it is not for everyone Apple’s first folding phone has upended the usual order of things…",
+      "published": "2026-11-23T15:00:49+08:00",
+      "source": "卫报",
+      "category": "tech"
+    },
+    {
+      "title": "Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbG4xZTAydWxlbWc4YXplRThOSkF1UXl3clBjbFNPLWdsUkdLZUR2b3dIckk4TklIRm5zb1ptQXVHcHJZX0tvR1M1QjJhWGZpWEE0aUZXaTVmYzctYTBTczJnNHk5THAwcC1mMFp6RkRDT2N2ZFhyMEtiUmw3d2lKdVNET0pEUjFTbWtNR0NaaDMyN0FTdlFXNWJzdXlKVkpabEJJakhnZGlEZDBQN2lKd1haWlNvZDliTHZBUFNIQmdDeDdsRFctYjVNYmMxdm9Lbk0xWHVvN1BUQ2hsYXc?oc=5",
+      "summary": "",
+      "published": "2026-11-23T14:02:45+08:00",
+      "source": "黄仁勋",
+      "category": "voices"
+    },
+    {
+      "title": "‘Once installed, there’s no getting rid of it’: what Falklands oil plans mean for its seals, whales and penguins",
+      "link": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
+      "summary": "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystems From the air, the main Falkland Islands form two large…",
+      "published": "2026-11-23T14:00:49+08:00",
+      "source": "卫报",
+      "category": "business"
+    },
+    {
+      "title": "Shopify CEO says Jensen Huang's ouster was 'choreographed' and calls Nvidia board ‘knuckleheads’",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMVJReXVWODJjNFdiY2Z2OUl5VU5aUFJuZ29CZUsyVHFETjAxQWEyR2dJcU5EUUswWjN2dHMwdDR2djR5SmpXVHlLZE5rSVhuWG5fTkVROF9IcEFsOWxFT1YzUFNRSHRKRTJYU1V3aTZSYlNDUE44Z1cxelVKY2tFUzVqWVZzaC0ta1hjLXhYcnpLLVZnUU53SjdRcEVMUm8?oc=5",
+      "summary": "",
+      "published": "2026-11-23T13:11:00+08:00",
+      "source": "黄仁勋",
+      "category": "voices"
+    },
+    {
+      "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
+      "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1",
+      "summary": "Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
+      "published": "2026-11-23T13:00:22+08:00",
+      "source": "金融时报",
+      "category": "business"
+    },
+    {
+      "title": "China is winning the car war",
+      "link": "https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1",
+      "summary": "Western carmakers have been routed from China as EVs go mainstream. Now they are battling to avoid a similar fate at home",
+      "published": "2026-11-23T13:00:13+08:00",
+      "source": "金融时报",
+      "category": "business"
+    },
+    {
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to…",
+      "published": "2026-11-23T11:00:00+08:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "title": "Sam Altman joins OpenAI’s chief scientist Jakub Pachocki in calling for common industry standard on powerful AI models",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNaEhDTlNrc2xOS3dnTkM5N0dMeUNpRFVCQ1gxWTNvcmhOWWtGWE90RW9qQ1dqdnVldGhmWjUwcklzcTd6WEFiaG5tdW9BeC16cHZzZ1pvQTZpYlFlR3h4bHZuaFZIWWtFUU9nWVZ0SENDa2huYTRKbXdVb2QtLTlyR3ZQNGRKZi02ejV0SlFEbUdycU1fMElkUXhpT3JYMDhWNXRUOGdFMWhyMHZTQllMNnUweWlaVU5fYnVmMnZFRkY3a1BHaEFGNUV5YlhVMnVQcXZoNDJCNHhVZXFTT0tmNHJDckgyZ0tEV1otR0J4YnViNFF5MXZ0a3l5emRFYlNxX2pRSjVac3pvdkhIMXFOeG5NRnhSWWwwU1HSAZ8CQVVfeXFMTWpwN2ZqMk1ydVJoZ3VyVlNhTGI2QjFJak1ITzBMTXlFY3N6c1JMZGY3ckM5eGhjVkdhcGhJWlBiM0tTNVBfUlZrR1AxZGIycnAzS01ST1VKbXd5R0pOVFpnMUdBSHVZWHBLMzhKbElSRFI4ZUFIcXZRU1JLWXRiVDZkUldyRmNCQ3lNZUgtc3QteDBuTDNoV3FkR2llMU5nX3dsS0tDWnBjWTJqLU5YQ2xYZDAyY1N4QW5NSlNoeXZ3dV9XSGJTUXR0dnpXdlpaa2pHcEFESTNvNVd0M3RqdnlqeW9BVmhCeXF1eHBZNkNNU01ESVdGeTVvSG42OWUxQU1WdllWUm4wbUN0OWNvS3A2aG50WFVXTXRyX2F6dU0?oc=5",
+      "summary": "",
+      "published": "2026-11-23T10:16:21+08:00",
+      "source": "Sam Altman",
+      "category": "voices"
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "published": "2026-11-23T09:25:53+08:00",
+      "source": "TechCrunch",
+      "category": "ai"
+    },
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "published": "2026-11-23T08:08:00+08:00",
+      "source": "BBC",
+      "category": "tech"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "summary": "",
+      "published": "2026-11-23T08:00:00+08:00",
+      "source": "Hugging Face",
+      "category": "ai"
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are…",
+      "published": "2026-11-23T06:48:02+08:00",
+      "source": "The Verge",
+      "category": "ai"
+    },
+    {
+      "title": "Ukraine war spilling into NATO territory",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+      "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+      "published": "2026-11-23T06:40:22+08:00",
+      "source": "NPR",
+      "category": "world"
+    },
+    {
+      "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+      "summary": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this is not Kushner's land -- it's theirs.",
+      "published": "2026-11-23T06:39:47+08:00",
+      "source": "NPR",
+      "category": "world"
+    },
+    {
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "published": "2026-11-23T05:42:48+08:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "published": "2026-11-23T05:14:07+08:00",
+      "source": "TechCrunch",
+      "category": "ai"
+    },
+    {
+      "title": "The best apps to make new friends right now",
+      "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "published": "2026-11-23T05:00:00+08:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive…",
+      "published": "2026-11-23T04:23:36+08:00",
+      "source": "卫报",
+      "category": "business"
+    },
+    {
+      "title": "I covered myself in sleep trackers to find the very best",
+      "link": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers",
+      "summary": "Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds The best sleep masks and best Bluetooth sleep masks Getting quality sleep is just as crucial as…",
+      "published": "2026-11-23T03:00:35+08:00",
+      "source": "卫报",
+      "category": "tech"
+    },
+    {
+      "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+      "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre…",
+      "published": "2026-11-23T03:00:34+08:00",
+      "source": "卫报",
+      "category": "tech"
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "published": "2026-11-23T02:08:43+08:00",
+      "source": "TechCrunch",
+      "category": "ai"
+    },
+    {
+      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI)…",
+      "published": "2026-11-23T01:55:27+08:00",
+      "source": "卫报",
+      "category": "tech"
+    },
+    {
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+      "published": "2026-11-23T01:44:52+08:00",
+      "source": "NPR",
+      "category": "world"
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs…",
+      "published": "2026-11-23T01:25:20+08:00",
+      "source": "The Verge",
+      "category": "ai"
+    },
+    {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on…",
+      "published": "2026-11-22T21:00:00+08:00",
+      "source": "The Verge",
+      "category": "ai"
+    },
+    {
+      "title": "Billionaire Ray Dalio says rising bond yields are shrinking the stock market's cushion — what Canadians can learn",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFMxakdpRlNrNzh0UHZhd0t6WmJiV0xnakZXWVZ2U3pHN1hxeUo5Rl9fbUhTX2ctUVluWXNpLUpkMGVTa1NtSGtVTnIyM0JLYThaTmM2YlZaakpUaVZaWjZDWHFZVFhSblRwQWYyTVhLa2wxU3hILUt3cXlELWdvTjZ5Qm5wMTFhdkE?oc=5",
+      "summary": "",
+      "published": "2026-11-22T21:00:00+08:00",
+      "source": "Ray Dalio",
+      "category": "voices"
+    },
+    {
+      "title": "Dalio warns stocks' cushion over bonds is shrinking",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUkc1NUtRV2FYTEhrdGNKRXlIb1g0dnFNV3htaGJLYUZvRi1UY0lXWHE0R0ZRSW9COGpSZDRfcUtVcFZ4bzJHeF9sQlhqTmZ5WDFSdUtTX3dsRWd5ejV5TkxXYVB1NFVtYk9UQld5Sk90b0VHc2lOc3dPbC1DUnk2WkwtV1hoY2RkcDg4ME94eU0?oc=5",
+      "summary": "",
+      "published": "2026-11-22T20:30:14+08:00",
+      "source": "Ray Dalio",
+      "category": "voices"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "published": "2026-11-22T08:00:00+08:00",
+      "source": "OpenAI",
+      "category": "ai"
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "published": "2026-11-22T05:37:10+08:00",
+      "source": "TechCrunch",
+      "category": "ai"
+    },
+    {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings…",
+      "published": "2026-11-22T04:03:37+08:00",
+      "source": "The Verge",
+      "category": "ai"
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last…",
+      "published": "2026-11-21T23:00:00+08:00",
+      "source": "The Verge",
+      "category": "ai"
+    },
+    {
+      "title": "Sam Altman Warns The Next 4 Years Of AI Can’t Look Like Last 4",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmVla3ZrV0pua3ltQy11c055RDVuTnkxUExXMTdoZjNta3ZzLUIzZFBTN1Mya2pMUG5FaFVRV1A2ZlBaOURpa0pMekpBOGYtckdNUTBRRjhXUWZKeXR0TjNJUktmb3Y5b0VSRXlfNWRNb0ZCTTc5VXF1SW16ZzBiR1lZLW9PVExVVk9LZ0ZQYjNENkk3TndYampUODlHd0UwNkxrcUhqRW9ZTWtkUmJDT1gwd0w?oc=5",
+      "summary": "",
+      "published": "2026-11-21T05:13:35+08:00",
+      "source": "Sam Altman",
+      "category": "voices"
+    },
+    {
+      "title": "‘Apology accepted’: Google chief scientist Demis Hassabis after research company says sorry for Google De",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOazBDLTkxZHQzZ3UzREtIM19qSG9YRlpYdFBjVHEyR0FHM0NKWmZHR0VEVDBQUXZIZU95b0NzTkdqR2RvMU5aQWF3RThoZi11V1FkT2l0aGpuZFR3YXdBanV5LVFQZVItOHBsaDMxU3pwUjlMNnVkYnM1OVB2cjdtRHhiTEFzWlNBcnJ1em1LTm5SZFVNajU0U3FjVVJMSGl4aXpwdXc1UGZFR1dfYjBCM29sd3NpREw3QjFnd1JtNEZ6SFFrS2ZXRmdvYXZVODhOZi1uRkM2Mlltd1lNVmQ3YmZpa2JBVkZaTWEzbS1hank0VVZOV0VWNS0yRjlDOHhYLURpaFE2cWZJOUJUZXI3OGhzZ3RwUnBrdHJGc0RQNGRnX0xlRzl6WGJB0gGvAkFVX3lxTE0tWGdwZk5BS001STJyNkRTYkh2X2RZOWwxRWQ4c3pJdGNDbTBtblJjZXRnUWM2dWVwT1FqRndCc3Myb1hqYnJZNm5wWEhCMzZOWk5rd1RJaWo5YW5oRXllb1JBS0ctNm81Y3pwYkFuR21NZkFLSklXT1FXRFpJejQxTzRKc0hiY0tiSm5NazBSbHdfRC13cXFQNXgzbkhkR2pZWnd4TTI3Y28wZm0xbGFFRW9ZbFNDRlpDR1dGSHFGYUZkUmRvRTF1MWstZ2tsajgyZWN0bmtDaWxNSkdfY2ljT0p6NVowV0dYMHZtQ0tDV19xWEg4UUZWNl9FMFdnZFVDOVNCUzA0Y202QWtJbk1LVFFwUVp1ZXlEWmU0V2N5eG5xX2ZwMV9LTHVQbk53bw?oc=5",
+      "summary": "",
+      "published": "2026-11-20T22:25:00+08:00",
+      "source": "Demis Hassabis",
+      "category": "voices"
+    },
+    {
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFiS1gtRjdJNWJZNUpDV0JxdzJVWHVUVEh5dXhVcVBYWXpSQWs2N1dnclY1aXJFaDhzM21OamVwQ1E?oc=5",
+      "summary": "",
+      "published": "2026-11-20T20:45:21+08:00",
+      "source": "Anthropic",
+      "category": "ai"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "published": "2026-11-20T18:00:00+08:00",
+      "source": "OpenAI",
+      "category": "ai"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "published": "2026-11-20T08:00:00+08:00",
+      "source": "OpenAI",
+      "category": "ai"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "published": "2026-11-20T08:00:00+08:00",
+      "source": "OpenAI",
+      "category": "ai"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "link": "https://huggingface.co/blog/inkling2mini",
+      "summary": "",
+      "published": "2026-11-20T08:00:00+08:00",
+      "source": "Hugging Face",
+      "category": "ai"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "summary": "",
+      "published": "2026-11-20T08:00:00+08:00",
+      "source": "Hugging Face",
+      "category": "ai"
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "published": "2026-11-19T16:00:00+08:00",
+      "source": "OpenAI",
+      "category": "ai"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "published": "2026-11-19T08:00:00+08:00",
+      "source": "OpenAI",
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wb1JNWEpudjJCR014ZnpEdkQ1MUFXOTZsRV9sU2wxclptYmRMVjY3d2R3bWJ2U2ZXdlktS1lNVE45b2NrVkY4aERJOXRJVkpRdy1kd2tRek52UG8wcXUwUEQwaUlEM0p1aE9YRlRvbnkyZVJUSmFLcWhFOA?oc=5",
+      "summary": "",
+      "published": "2026-11-19T07:35:59+08:00",
+      "source": "Anthropic",
+      "category": "ai"
+    },
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "summary": "",
+      "published": "2026-11-19T05:35:43+08:00",
+      "source": "Google DeepMind",
+      "category": "ai"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "summary": "",
+      "published": "2026-11-19T03:54:56+08:00",
+      "source": "Hugging Face",
+      "category": "ai"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "summary": "",
+      "published": "2026-11-19T02:53:43+08:00",
+      "source": "Hugging Face",
+      "category": "ai"
+    },
+    {
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "summary": "",
+      "published": "2026-11-19T02:13:42+08:00",
+      "source": "Google DeepMind",
+      "category": "ai"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "summary": "",
+      "published": "2026-11-18T23:00:23+08:00",
+      "source": "Hugging Face",
+      "category": "ai"
+    },
+    {
+      "title": "Fei-Fei Li: Public Sector and Universities “Priced Out” of AI Research",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VZjFDa0cxNTBqb2tPeEJwVkRZY3BidnVILWJxVVc3cjgybEZJQnMtNWZ6SjZ5b2ZXMV9PUHRQWE43M1g1eDllZlVfZjhaUEdwRUUyc1pNcS1zbFAwREhUbElRWDUyQjVxQVNF?oc=5",
+      "summary": "",
+      "published": "2026-11-18T10:30:33+08:00",
+      "source": "李飞飞",
+      "category": "voices"
+    },
+    {
+      "title": "Universities, public sector are ‘priced out’ of AI, Fei-Fei Li says",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTExQmhJRVo4X0pqM3g0eFZpZUxkYm1sU01hVndYS0Rob2tGbVFEdnppdjBBQm1Mem5XSFRxb3ZCaFZMeENEWnZOR2RQMFIyOWlJeDZRdXhiX25SbEFzejdnamJEMGlHdXdoQzNPZV9IVkRDZkpMMmZxMHpsNWJMZ0xfSzYtUmx4WTBaV2hDUHNfOW9PYVp1eUtYTU9aZXlBN0NIUTNSb09Jdw?oc=5",
+      "summary": "",
+      "published": "2026-11-18T03:40:00+08:00",
+      "source": "李飞飞",
+      "category": "voices"
+    },
+    {
+      "title": "Demis Hassabis warns about recursive AI self-improvement without human review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMk8wMXgzeEhKcjJtZGUxMzVvbE5LRFNob01hMlV5U2RJejdDWmhrNlNJSTN1MTZQd1BoZkl1UVpTZTNDY2RGSkhnZjRTSXhBZWhXOVBvajd6SDZFY0FjRjJ0aE9YcTR5S1hSOGVMandKcFdCaVhWVmh2d3lLXzJ5NjJ4WVJ5aDR5aWpsUjNaUWh6MjdqUDl6R3JoNG9VMVAtOTBYSzBn?oc=5",
+      "summary": "",
+      "published": "2026-11-17T22:34:41+08:00",
+      "source": "Demis Hassabis",
+      "category": "voices"
+    }
+  ]
+}
